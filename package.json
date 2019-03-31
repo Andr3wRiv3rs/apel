@@ -1,0 +1,14 @@
+{
+  "name": "apel",
+  "version": "0.1.0",
+  "description": "A Vue preprocessor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index -w example.apel -o example.vue"
+  },
+  "author": "Andres Sweeney-Rios",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
